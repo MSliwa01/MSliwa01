@@ -5,6 +5,10 @@ I build with coding agents (Claude Code, Codex, Cursor) and write tools they can
 
 **Open source**
 
+- [wwxd](https://github.com/MSliwa01/wwxd) ("What would X do?"): turns one person's public talks, podcasts and essays
+  into a wiki of their positions, so an agent can answer "what would X do?" with timestamped quotes. A script checks
+  every quote against the transcript (158 of 160 found word for word), and a blind judge from Google preferred its
+  answers to plain Claude on 34 of 40 questions. It can't predict opinions a person hasn't voiced yet.
 - [storeshots](https://github.com/MSliwa01/storeshots): App Store screenshots from the running app. Captures in the iOS
   Simulator, lays out slides in HTML and CSS, checks them on the rendered pixels and uploads through the App Store
   Connect API. Every command prints JSON, so an agent can drive it.
@@ -18,7 +22,7 @@ I build with coding agents (Claude Code, Codex, Cursor) and write tools they can
   the best single prompt got 24.5% of cells wrong. Over three full runs the pipeline published 82.2% of the cell results
   with no wrong date and held the other 17.8% back. It was tuned on these documents, so that is its best case; documents
   it has not seen are the next test.
-- TrueSky: weather drawn as a painted landscape, with a RevenueCat paywall. In App Store review.
+- TrueSky: weather drawn as a painted landscape, with a RevenueCat paywall. [On the App Store](https://apps.apple.com/pl/app/truesky-weather/id6816346955).
 - Keenwit: a daily brain workout with 43 games, where the server checks every result. In development.
 
 **Research**
