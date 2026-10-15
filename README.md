@@ -1,7 +1,7 @@
 # Mateusz Śliwa
 
 Data and AI engineer who ships mobile apps. Zielona Góra, Poland, open to remote or hybrid roles and to relocation.
-I build with coding agents (Claude Code, Codex, Cursor) and write tools they can drive.
+Agentic coding is how I work (Claude Code, Codex, Cursor), and I write tools for it.
 Projects with live demos: [mateuszsliwa.dev](https://mateuszsliwa.dev).
 
 **Open source**
