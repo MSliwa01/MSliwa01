@@ -1,7 +1,11 @@
 # Mateusz Śliwa
 
-I build data pipelines, mobile apps and developer tools. MSc in Data Engineering, University of Zielona Góra.
-Based in Zielona Góra, Poland. Open to remote or hybrid roles and relocation.
+I design, deploy and maintain Python backends, document-processing pipelines and mobile apps.
+Python · FastAPI · PostgreSQL · React Native · TypeScript · Swift · Kotlin.
+
+EcoSort and TrueSky are on the App Store. [Fixes merged into Docling, React Native Skia, React Navigation and T3 Code](#merged-contributions).
+
+Based in Zielona Góra, Poland. MSc in Data Engineering. Open to remote or hybrid roles and relocation.
 
 [Portfolio and project demos](https://mateuszsliwa.dev) · [Email](mailto:sliwa.mateo@gmail.com)
 
