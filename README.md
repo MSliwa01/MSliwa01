@@ -1,6 +1,6 @@
 # Mateusz Śliwa
 
-I design, deploy and maintain Python backends, document-processing pipelines and mobile apps.
+I design, deploy and maintain mobile apps, backends and AI systems built on language models.
 Python · FastAPI · PostgreSQL · React Native · TypeScript · Swift · Kotlin.
 
 EcoSort and TrueSky are on the App Store. [Fixes merged into Docling, React Native Skia, React Navigation and T3 Code](#merged-contributions).
@@ -33,7 +33,7 @@ Based in Zielona Góra, Poland. MSc in Data Engineering. Open to remote or hybri
 - [macsim](https://github.com/MSliwa01/macsim): builds and tests iOS apps on a remote Mac from Linux or WSL.
   Syncs over SSH, builds Swift, XcodeGen and Expo/React Native projects, and provides Simulator controls and a browser
   stream. Written in Bash.
-- [wwxd](https://github.com/MSliwa01/wwxd): builds a cited knowledge base from expert talks, podcasts and essays
+- [wwxd](https://github.com/MSliwa01/wwxd): builds a cited knowledge base from expert talks, podcasts, essays and books
   for use in model conversations. Its Python CLI handles source discovery, transcript fetching and quote checks;
   topic pages provide context for answers with source references.
 
