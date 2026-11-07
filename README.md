@@ -3,7 +3,7 @@
 I design, deploy and maintain mobile apps, backends and AI systems built on language models.
 Python · FastAPI · PostgreSQL · React Native · TypeScript · Swift · Kotlin.
 
-EcoSort and TrueSky are on the App Store. [Fixes merged into Docling, React Native Skia, React Navigation and T3 Code](#merged-contributions).
+EcoSort and TrueSky are on the App Store. [Fixes merged into Docling, React Native Skia, React Navigation, T3 Code and htmldate](#merged-contributions).
 
 Based in Zielona Góra, Poland. MSc in Data Engineering. Open to remote or hybrid roles and relocation.
 
@@ -47,3 +47,5 @@ Based in Zielona Góra, Poland. MSc in Data Engineering. Open to remote or hybri
   leaking into extracted text cells.
 - [React Navigation #13287](https://github.com/react-navigation/react-navigation/pull/13287): fixed keyboard
   dismissal when opening a drawer programmatically.
+- [htmldate #207](https://github.com/adbar/htmldate/pull/207): added Polish month names to date extraction, so
+  dates such as "12 października 2025" no longer come out as 1 January.
